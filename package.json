@@ -1,0 +1,30 @@
+{
+  "name": "liveuniversitytest",
+  "version": "1.0.0",
+  "description": "Live University front / middle-end test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrocpires/liveUniversityTest.git"
+  },
+  "keywords": [
+    "Live University",
+    "Node.JS",
+    "EJS"
+  ],
+  "author": "Pedro Pires",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrocpires/liveUniversityTest/issues"
+  },
+  "homepage": "https://github.com/pedrocpires/liveUniversityTest#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}

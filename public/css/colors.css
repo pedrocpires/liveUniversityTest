@@ -1,0 +1,14 @@
+:root {
+  --clr-border: #7f7f7f;
+
+  --clr-grey-0: #e7e6e6;
+  --clr-grey-1: #d9d9d9;
+  --clr-grey-2: #d0cece;
+  --clr-grey-3: #bfbfbf;
+  --clr-grey-4: #afabab;
+
+  --clr-black: #000000;
+
+  --clr-error: #fd8181;
+  --clr-text-error: #e40606;
+}
